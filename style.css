@@ -1,11 +1,18 @@
 * {
-    margin-right:10%;
-    margin-left:10%;
+    margin-right:5%;
+    margin-left:5%;
   }
 
-.header{
+.Header{
     background-color:#ebebeb;
     font-size:18px;
+    text-align: center;
+    padding: 40px;
+}
+
+.Nav{
+    background-color:#ebebeb;
+    font-size: 18px;
     text-align: center;
     padding: 40px;
 }
