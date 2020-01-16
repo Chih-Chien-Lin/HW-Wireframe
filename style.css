@@ -8,14 +8,14 @@
     margin-right:20%;
 }
 
-.Header{
+.header{
     background-color:#ebebeb;
     font-size:18px;
     text-align: center;
     padding: 40px;
 }
 
-.Nav{
+.nav{
     background-color:#ebebeb;
     font-size: 18px;
     text-align: center;
@@ -24,8 +24,8 @@
 .box{
     background-color: #ebebeb;
     position: relative;
-    float:left;
-    width: 550px;
+    float: left;
+    width: 495px;
     height:350px;
     text-align: center;
     font-size: center;
@@ -37,13 +37,27 @@
     margin-right: 5%;
     height: 250px;
 }
+.asidebox{
+    float:left;
+    background-color:#ebebeb;
+    color: #777;
+    width: 445px;
+    height: 350px;
+    margin-left: 20px;
+    text-align: center;
+}
+.clearfix{
+    content: " ";
+    display: block;
+    clear: both;
+}
 
 .section{
     padding:5px;
 }
 
 .article{
-    padding: 20px;
+    padding: 15px;
 }
 
 .headers{
@@ -60,4 +74,17 @@
     margin-left: 5%;
     margin-right: 5%;
     padding: 18px;
+}
+
+.aside{
+    padding: 30px;
+    font-size: 18px;
+}
+
+.footer{
+    margin-top: 40%;
+    background-color:#ebebeb;
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
 }
