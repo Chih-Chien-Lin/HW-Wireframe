@@ -33,12 +33,15 @@
 .innerbox{
     background-color: #777;
     color: #ebebeb;
-    margin-left:5%;
-    margin-right:5%;
-    height:250px;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 250px;
 }
 
 .section{
-    margin-top: 10px;
-    text-align: center;
+    padding:5px;
+}
+
+.article{
+    padding: 20px;
 }
