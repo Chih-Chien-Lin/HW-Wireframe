@@ -1,7 +1,4 @@
-* {
-    margin-right:5%;
-    margin-left:5%;
-  }
+
 
 .Header{
     background-color:#ebebeb;
@@ -15,4 +12,18 @@
     font-size: 18px;
     text-align: center;
     padding: 40px;
+}
+.box{
+    background-color: #ebebeb;
+    position: relative;
+    float:left;
+    width: 800px;
+    height:350px;
+    text-align: center;
+    font-size: center;
+}
+
+.section{
+    margin-top: 10px;
+    text-align: center;
 }
