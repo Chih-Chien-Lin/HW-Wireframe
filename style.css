@@ -45,3 +45,11 @@
 .article{
     padding: 20px;
 }
+
+.headers{
+    background-color:#ebebeb;
+    color: #777;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 18px;
+}
